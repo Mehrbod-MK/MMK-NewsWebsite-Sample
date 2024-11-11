@@ -1,0 +1,73 @@
+* {
+    margin: 0;
+
+    transition: all 0.5s;
+
+    scroll-behavior: smooth;
+}
+
+/* <uniquifier>: Use a unique and descriptive class name */
+/* <weight>: Use a value from 100 to 900 */
+
+.vazirmatn-minimum {
+    font-family: "Vazirmatn", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 100;
+    font-style: normal;
+}
+
+.vazirmatn-400 {
+    font-family: "Vazirmatn", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+.vazirmatn-maximum {
+    font-family: "Vazirmatn", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: normal;
+  }
+
+body {
+    background-color: rgb(31, 31, 69);
+}
+
+#main-contents {
+    background-color: white; 
+    
+    margin: 60px 10% 0px 10%;
+
+    text-align: center;
+
+    font-size: 2em;
+
+    border-radius: 10px;
+}
+
+#main-section {
+    margin: 10px;
+}
+
+#main-table {
+    text-align: right;
+    width: 100%;
+}
+
+#cell-main-menu {
+    width: 30%;
+}
+
+#main-menu ul li a {
+    text-decoration: none;
+    color:  black;
+}
+
+#main-menu ul li a:hover {
+    color:  blue;
+}
+
+#header-subtitle {
+    font-size: 1.2em;
+}
