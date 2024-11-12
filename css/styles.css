@@ -71,3 +71,48 @@ body {
 #header-subtitle {
     font-size: 1.2em;
 }
+
+.links-default
+{
+    text-decoration: none;
+    color: black;
+}
+.links-default-smaller
+{
+    text-decoration: none;
+    color: black;
+    font-size: 0.7em;
+}
+.links-default:hover, .links-default-smaller:hover
+{
+    color: blue;
+}
+
+.news-links-header
+{
+    font-size: 0.8em;
+    font-weight: 900;
+}
+
+.news-links-text
+{
+    font-size: 0.7em;
+    
+}
+
+.table-default
+{
+    width: 100%;
+}
+
+.cell-news-thumbnail
+{
+    width: 10%;
+
+    padding-left: 20px;
+}
+
+.cell-news-text
+{
+    width: 70%;
+}
