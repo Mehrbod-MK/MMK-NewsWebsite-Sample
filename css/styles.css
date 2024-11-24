@@ -128,6 +128,7 @@ body {
 .main-footer
 {
     background-color: brown;
+    margin: 10px 0 0 0;
 }
 
 .footers
@@ -158,4 +159,10 @@ body {
 {
     width: 70%;
     text-align: end;
+}
+
+.company-descriptions
+{
+    margin: 0 17px;
+    text-align: justify;
 }
