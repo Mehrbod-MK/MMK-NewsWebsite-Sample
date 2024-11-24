@@ -57,6 +57,8 @@ body {
 
 #cell-main-menu {
     width: 30%;
+
+    vertical-align: top;
 }
 
 #main-menu ul li a {
@@ -115,4 +117,9 @@ body {
 .cell-news-text
 {
     width: 70%;
+}
+
+.form-labels
+{
+    
 }
