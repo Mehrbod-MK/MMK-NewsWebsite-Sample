@@ -121,5 +121,11 @@ body {
 
 .form-labels
 {
-    
+
+}
+
+#gallery
+{
+    overflow: auto;
+    white-space: nowrap;
 }
